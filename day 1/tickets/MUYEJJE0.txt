@@ -1,0 +1,8 @@
+Prio: Urgent
+
+Name: Varsamis
+
+Submitted:2026-10-07T19:49:16.393+02:00
+
+Issue: User reports their laptop has been infected with a virus.
+
